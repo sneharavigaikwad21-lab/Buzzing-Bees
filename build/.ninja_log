@@ -1,0 +1,8 @@
+# ninja log v5
+5	100	1763290498893435347	CMakeFiles/agni_production.dir/agni_scheduler_hw.cpp.o	bc0ef32cf531948f
+4	152	1763290498945439981	CMakeFiles/agni_production.dir/agni_hal.cpp.o	d677906c1fbcde19
+7	176	1763290498969442120	CMakeFiles/agni_production.dir/main_vidya.cpp.o	12b800911600e203
+3	471	1763290499261468162	CMakeFiles/agni_production.dir/vector_utils.cpp.o	28e8844a2aefd3d8
+3	1828	1763290500617589153	CMakeFiles/agni_production.dir/scheduler.cpp.o	c551116931748537
+3	1978	1763290500765602365	CMakeFiles/agni_production.dir/api_gateway.cpp.o	a8e781cf0755d94d
+1978	2068	1763290500853610221	agni_production	5c499a3dbf172f30
